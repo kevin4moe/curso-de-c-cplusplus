@@ -1,6 +1,6 @@
 # Curso de Lenguaje C
 
-Este curso de Lenguaje C se explicaran por completo por los conceptos fundamentales de la programación en C. Desde una sólida introducción hasta habilidades avanzadas, explorarás cada aspecto esencial de este lenguaje de programación, incluyendo:
+Este curso de Lenguaje C se explicaran los conceptos fundamentales de la programación en C. Desde una sólida introducción hasta los conceptos más avanzados, explorarás cada aspecto esencial de este lenguaje de programación, incluyendo:
 
 1. **Introducción a C:** Comenzarás con los conceptos básicos de la programación y aprenderás cómo C se diferencia de otros lenguajes.
 
